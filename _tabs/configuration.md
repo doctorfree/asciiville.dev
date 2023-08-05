@@ -44,7 +44,7 @@ ascinit -c
 ```
 
 A sample Asciiville configuration file is provided below. In this sample
-configuration the *ARTDIR* is set to `/usr/share/asciiville/art`, the default
+configuration the _ARTDIR_ is set to `/usr/share/asciiville/art`, the default
 Asciiville Ascii Art galleries folder. To change the Ascii Art galleries folder,
 modify this setting. For example, to change where `asciiville` looks for
 Ascii Art galleries, this setting could be modified to:
@@ -114,22 +114,22 @@ each program. The default configuration generated when running the
 
 Generated configuration files include:
 
-* `$HOME/.config/btop/btop.conf` : Btop++ system monitor
-* `$HOME/.config/got/config.yml` : Got text translation tool
-* `$HOME/.config/neofetch/config.conf` : NeoFetch system info script
-* `$HOME/.config/neomutt/` : NeoMutt email client startup files
-* `$HOME/.config/nvim-Lazyman/` : Neovim text editor configuration and startup files
-* `$HOME/.config/jrnl/` : Journal command `jrnl` configuration file
-* `$HOME/.config/khard/khard.conf` : Address book `khard` configuration file
-* `$HOME/.config/ranger/rifle.conf` : Rifle, Ranger's file opener
-* `$HOME/.config/tuir/` : TUIR terminal UI for Reddit configuration files
-* `$HOME/.mutt/muttrc` : Mutt email client
-* `$HOME/.newsboat/` : Newsboat RSS feed reader configuration files
-* `$HOME/.rainbow_config.json` : Rainbowstream Twitter client
-* `$HOME/.tmux.conf` : Tmux terminal multiplexer
-* `$HOME/.w3m/` : W3M web browser custom configuration
-    * W3M web browser configured to act as a Markdown pager
-	* W3M configuration enables support for many MIME types and external apps
+- `$HOME/.config/btop/btop.conf` : Btop++ system monitor
+- `$HOME/.config/got/config.yml` : Got text translation tool
+- `$HOME/.config/neofetch/config.conf` : NeoFetch system info script
+- `$HOME/.config/neomutt/` : NeoMutt email client startup files
+- `$HOME/.config/nvim-Lazyman/` : Neovim text editor configuration and startup files
+- `$HOME/.config/jrnl/` : Journal command `jrnl` configuration file
+- `$HOME/.config/khard/khard.conf` : Address book `khard` configuration file
+- `$HOME/.config/ranger/rifle.conf` : Rifle, Ranger's file opener
+- `$HOME/.config/tuir/` : TUIR terminal UI for Reddit configuration files
+- `$HOME/.mutt/muttrc` : Mutt email client
+- `$HOME/.newsboat/` : Newsboat RSS feed reader configuration files
+- `$HOME/.rainbow_config.json` : Rainbowstream Twitter client
+- `$HOME/.tmux.conf` : Tmux terminal multiplexer
+- `$HOME/.w3m/` : W3M web browser custom configuration
+  - W3M web browser configured to act as a Markdown pager
+  - W3M configuration enables support for many MIME types and external apps
 
 These override or extend the settings in the utilities' global configuration
 files, typically installed in `/etc/`. For example, the global configuration
@@ -140,7 +140,6 @@ web browser is configured in `/etc/w3m/`, and the NeoMutt global config is
 After installing Asciiville and running the `ascinit` command, initialize the
 the command line Twitter client by invoking the `rainbowstream` command and
 authorizing the app to access your Twitter account.
-
 
 #### Kitty SSH terminfo configuration
 
@@ -188,6 +187,7 @@ While running `nvim` perform a Neovim health check by issuing the Neovim command
 ```vim
 :checkhealth
 ```
+
 The Asciiville Neovim configuration provides one of the best development
 environments available. It is hoped that we here in Asciiville will soon
 be able to leverage this incredible text editing facility to augment our
@@ -196,8 +196,8 @@ the Asciiville setup:
 
 <p float="left">
 <br/>
-  <img src="screenshots/neovim-asciiville.png" style="width:800px;height:600px;">
-  <img src="screenshots/neovim-search.png" style="width:800px;height:600px;">
+  <img src="https://github.com/doctorfree/Asciiville/blob/main/screenshots/neovim-asciiville.png" style="width:800px;height:600px;">
+  <img src="https://github.com/doctorfree/Asciiville/blob/main/screenshots/neovim-search.png" style="width:800px;height:600px;">
 </p>
 
 #### Newsboat RSS feed reader configuration
@@ -251,7 +251,7 @@ and post to Usenet newsgroups. The NeoMutt account
 can be used to connect to a Usenet Newsgroup server. The `nntp` account
 uses `news.eternal-september.org` as the default NNTP server. In order
 to access this Usenet server a free registration at
-https://www.eternal-september.org/RegisterNewsAccount.php
+<https://www.eternal-september.org/RegisterNewsAccount.php>
 is required.
 
 Comments in `$HOME/.config/neomutt/accounts/gmail`
