@@ -1,12 +1,8 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-video
 order: 8
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wiki/doctorfree/Asciiville/pics/asciitown.png" style="width:950px;height:500px;">
-</div>
 
 Introduction to Asciiville Video:
 [![Asciiville Introduction](https://i.imgur.com/k7ZgRi4.png)](https://www.youtube.com/watch?v=t5bfVqqDvI0 "Asciiville Introduction")

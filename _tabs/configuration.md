@@ -194,11 +194,13 @@ be able to leverage this incredible text editing facility to augment our
 creation of Ascii Art. Here are a couple of screenshots of Neovim using
 the Asciiville setup:
 
-<p float="left">
+<div align="center">
+<p>
+  <img src="https://github.com/doctorfree/Asciiville/blob/main/screenshots/neovim-asciiville.png" style="width:800px;height:600px;" alt="neovim">
 <br/>
-  <img src="https://github.com/doctorfree/Asciiville/blob/main/screenshots/neovim-asciiville.png" style="width:800px;height:600px;">
-  <img src="https://github.com/doctorfree/Asciiville/blob/main/screenshots/neovim-search.png" style="width:800px;height:600px;">
+  <img src="https://github.com/doctorfree/Asciiville/blob/main/screenshots/neovim-search.png" style="width:800px;height:600px;" alt="neovim">
 </p>
+</div>
 
 #### Newsboat RSS feed reader configuration
 

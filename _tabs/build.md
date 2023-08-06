@@ -4,6 +4,10 @@ icon: fas fa-gg-circle
 order: 6
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wiki/doctorfree/Asciiville/pics/asciitown.png" style="width:950px;height:500px;">
+</div>
+
 To compile and build an Arch, Debian, or RPM format package on a Linux architecture
 for which a package is not provided, an appropriate development environment
 must be installed.
