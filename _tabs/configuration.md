@@ -196,9 +196,9 @@ the Asciiville setup:
 
 <div align="center">
 <p>
-  <img src="https://github.com/doctorfree/Asciiville/blob/main/screenshots/neovim-asciiville.png" style="width:800px;height:600px;" alt="neovim">
+  <img src="https://raw.githubusercontent.com/doctorfree/Asciiville/main/screenshots/neovim-asciiville.png" style="width:800px;height:600px;" alt="neovim">
 <br/>
-  <img src="https://github.com/doctorfree/Asciiville/blob/main/screenshots/neovim-search.png" style="width:800px;height:600px;" alt="neovim">
+  <img src="https://raw.githubusercontent.com/doctorfree/Asciiville/main/screenshots/neovim-search.png" style="width:800px;height:600px;" alt="neovim">
 </p>
 </div>
 
