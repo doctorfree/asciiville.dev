@@ -12,11 +12,10 @@ order: 7
 
 Asciiville adds the following commands to your system:
 
+### Commands with man pages
+
 **[asciiville](https://github.com/doctorfree/Asciiville/wiki/asciiville.1)**
 : primary user interface, invokes terminal emulators, ascii animations, system monitor, mail client, file manager, web browser, and more
-
-**aewan/aecat/aemakeflic**
-: Ascii Art creation tools
 
 **[btop](https://github.com/doctorfree/Asciiville/wiki/btop.1)**
 : character based system monitor
@@ -26,9 +25,6 @@ Asciiville adds the following commands to your system:
 
 **[ascinit](https://github.com/doctorfree/Asciiville/wiki/ascinit.1)**
 : one-time initializaton of a user's Asciiville configuration
-
-**asciibrow**
-: browse the web in character mode
 
 **[asciisplash](https://github.com/doctorfree/Asciiville/wiki/asciisplash.1)**
 : fun ascii art screens using ASCIImatics animations
@@ -44,6 +40,26 @@ Asciiville adds the following commands to your system:
 
 **[asciimpplus](https://github.com/doctorfree/Asciiville/wiki/asciimpplus.1)**
 : ASCIImatics animated Music Player Plus splash screen
+
+**[show_ascii_art](https://github.com/doctorfree/Asciiville/wiki/show_ascii_art.1)**
+: display ascii art, convert images to ascii art
+
+**[show_moon](https://github.com/doctorfree/Asciiville/wiki/show_moon.1)**
+: display the phase of the Moon
+
+**[show_weather](https://github.com/doctorfree/Asciiville/wiki/show_weather.1)**
+: display a weather report
+
+**[termprofset](https://github.com/doctorfree/Asciiville/wiki/termprofset.1)**
+: set/restore default profile or font settings for the Gnome, Xfce4, and Tilix terminals
+
+### Commands without man pages
+
+**aewan/aecat/aemakeflic**
+: Ascii Art creation tools
+
+**asciibrow**
+: browse the web in character mode
 
 **datafilecat**
 : decrypts the content of a cbftp data file
@@ -93,20 +109,11 @@ Asciiville adds the following commands to your system:
 **set_xfce_trans**
 : sets an xfce4-terminal window's transparency level
 
-**[show_ascii_art](https://github.com/doctorfree/Asciiville/wiki/show_ascii_art.1)**
-: display ascii art, convert images to ascii art
-
 **show_endo**
 : display a series of ascii fluid dynamics simulations
 
 **show_pokemon**
 : display a Pokemon pocket monster
-
-**[show_moon](https://github.com/doctorfree/Asciiville/wiki/show_moon.1)**
-: display the phase of the Moon
-
-**[show_weather](https://github.com/doctorfree/Asciiville/wiki/show_weather.1)**
-: display a weather report
 
 **tdraw**
 : ASCII drawing tool
@@ -114,11 +121,10 @@ Asciiville adds the following commands to your system:
 **term-image**
 : Display and browse images in the terminal
 
-**[termprofset](https://github.com/doctorfree/Asciiville/wiki/termprofset.1)**
-: set/restore default profile or font settings for the Gnome, Xfce4, and Tilix terminals
-
 **tetris**
 : classic video game
+
+### Commands from other projects
 
 In addition to the above commands which reside in the Asciiville project,
 several commands may also be installed as dependencies. These include:
@@ -186,6 +192,8 @@ terminal emulators are:
 - **gnome-terminal**
 - **tilix** :
 - **xfce4-terminal**
+
+### Asciiville Wiki
 
 Additional detail and info can be found in the
 [Asciiville Wiki](https://github.com/doctorfree/Asciiville/wiki).
