@@ -86,7 +86,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: doctorfree/asciiville.dev
-    repo_id: 675099358
+    repo_id: R_kgDOKD0y3g
     category: General
     category_id: DIC_kwDOKD0y3s4CYZQL
     mapping: # optional, default to 'pathname'
