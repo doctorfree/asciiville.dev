@@ -8,8 +8,6 @@ pin: true
 img_path: '/posts/20230806'
 ---
 
-# ASCII Art Tools
-
 Asciiville includes many tools for generating and viewing ASCII Art
 in a variety of ways including automatic conversion of images in any
 image format into ASCII Art, slideshows of ASCII Art, and ASCII Art
