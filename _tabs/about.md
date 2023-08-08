@@ -33,7 +33,7 @@ a front-end for a variety of terminal commands and `tmux` sessions.
 
 The `asciiville` command can be used to display Ascii Art either
 as a slideshow or interactively.
-o
+
 <div align="center">
   <h2 id="connect">Connect</h2>
   <p align="center">
@@ -44,6 +44,10 @@ o
     <a href="https://www.reddit.com/user/No-Blackberry-3160"><img align="center" height="40"
       alt="reddit"
       src="https://raw.githubusercontent.com/doctorfree/doctorfree/master/icons/reddit.png"
+    /></a>
+    <a href="https://github.com/doctorfree"><img align="center" height="40"
+      alt="github"
+      src="https://raw.githubusercontent.com/doctorfree/doctorfree/master/icons/github.png"
     /></a>
     <a href="https://gitlab.com/doctorfree"><img align="center" height="40"
       alt="gitlab"
