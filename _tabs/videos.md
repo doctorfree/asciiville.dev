@@ -2,7 +2,7 @@
 layout: post
 post_style: page
 icon: fas fa-video
-toc: false
+toc: true
 order: 8
 ---
 

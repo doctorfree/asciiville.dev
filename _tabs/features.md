@@ -1,6 +1,8 @@
 ---
-# the default layout is 'page'
+layout: post
+post_style: page
 icon: fas fa-info-circle
+toc: true
 order: 3
 ---
 
@@ -17,6 +19,8 @@ in a lightweight character based environment.
 
 At the core of Asciiville is the `asciiville` command which acts as
 a front-end for a variety of terminal commands and `tmux` sessions.
+
+### The asciiville Command
 
 The `asciiville` command can be used to display Ascii Art either
 as a slideshow or interactively. For example:
@@ -76,12 +80,14 @@ The `asciiville` command can also be used to invoke commands in a variety of way
 - Display a random Pokemon
 - Display the Phase of the Moon
 - Display a weather report
-- Display the MusicPlayerPlus or RoonCommandLine interactive menus
+- Display the [MusicPlayerPlus](https://musicplayerplus.dev) or [RoonCommandLine](https://rooncommand.dev) interactive menus
 - Any character based client the user wishes to run
 - Several asciimatics animations optionally accompanied by audio
 
 Without arguments or with the `-i` argument, `asciiville` presents a set
 of interactive menus that can be used to control its behavior.
+
+### Component Integration
 
 Integration is provided for:
 
@@ -89,7 +95,6 @@ Integration is provided for:
 - [btop](https://github.com/doctorfree/btop#readme), character based system monitor
 - [cbftp](https://github.com/doctorfree/cbftp#readme), character based FTP client
 - [ddgr](https://github.com/jarun/ddgr#readme), command line web search using DuckDuckGo
-- [googler](https://github.com/jarun/googler#readme), command line web search using Google
 - [jrnl](https://jrnl.sh/en/stable/), a simple command line journal application
 - [khard](https://github.com/lucc/khard), address book for the Unix console
 - [w3m](http://w3m.sourceforge.net/), another character based web browser
@@ -102,7 +107,7 @@ Integration is provided for:
 - [tuir](https://gitlab.com/ajak/tuir/), terminal UI for Reddit
 - [gdu](https://github.com/dundee/gdu#readme), character based disk usage analyzer
 - [got](https://github.com/fedeztk/got), text based translation tool
-- [mpcplus](https://github.com/doctorfree/MusicPlayerPlus/blob/master/mpcplus/README.md), featureful ncurses based Music Player client
+- [mpcplus](https://musicplayerplus.dev/posts/Introduction), featureful ncurses based Music Player client
 - [mplayer](http://mplayerhq.hu/design7/info.html), a media player
 - [asciimatics](https://github.com/peterbrittain/asciimatics) - automatically display a variety of character based animation effects
 - [asciinema](https://asciinema.org/) - automatically create ascii character based video clips
@@ -123,5 +128,5 @@ Integration is provided for:
   - kitty
   - tilix
   - cool-retro-term
-- [MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus#readme), character based suite of commands to manage music server and player
-- [RoonCommandLine](https://github.com/doctorfree/RoonCommandLine#readme), command line control of the Roon audio system over a local network
+- [MusicPlayerPlus](https://musicplayerplus.dev), character based suite of commands to manage music server and player
+- [RoonCommandLine](https://rooncommand.dev), command line control of the Roon audio system over a local network

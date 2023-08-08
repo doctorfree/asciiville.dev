@@ -42,10 +42,6 @@ bring up the interactive menu interface.
 
 - [ddgr](https://github.com/jarun/ddgr#readme), Introduction to the ddgr command line web search utility
 
-### Googler README
-
-- [googler](https://github.com/jarun/googler#readme), Introduction to the googler command line web search utility
-
 ### Man Pages
 
 - [**asciiville**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciiville.1.md) : Primary Asciiville user interface
