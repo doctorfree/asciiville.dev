@@ -1,39 +1,26 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 13
+icon: fas fa-gg-circle
+order: 12
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wiki/doctorfree/Asciiville/pics/asciitown.png" style="width:950px;height:500px;">
-</div>
+[Doctorfree](https://github.com/doctorfree) maintains the following sister projects
+which may be of interest:
 
-Asciiville is where you go for ASCII Art, animations, and utilities.
-The Asciiville project provides integration and extension of several
-packages as well as providing convenience commands to invoke a variety
-of components used to display ASCII Art, animations, and text based
-utilities to perform common operations in a text-only environment.
+[Asciiville](https://asciiville.dev)
+: Ascii art tools and media, Asciiville includes nearly 1,000 works of ASCII and ANSI Art!
 
-Asciiville includes nearly 1,000 works of ASCII and ANSI Art!
+[Lazyman](https://lazyman.dev)
+: The Lazyman project can be used to install, initialize, and manage multiple Neovim configurations. 100 popular Neovim configurations are supported.
 
-Asciiville is one of the [Neoman](https://neoman.dev) managed projects:
+[MusicPlayerPlus](https://musicplayerplus.dev)
+: Easy to use seamlessly integrated control of audio streaming, playing, music library management, and visualization in a character-based environment.
 
-| **Neoman** | **Managed** | **Projects** |
-|:-----------|:-----------:|-------------:|
-| [Asciiville](https://asciiville.dev) | [Lazyman](https://lazyman.dev) | [MirrorCommand](https://mirrorcommand.dev) |
-| [MusicPlayerPlus](https://musicplayerplus.dev) | [Neoman](https://neoman.dev) | [RoonCommandLine](https://rooncommand.dev) |
+[RoonCommandLine](https://rooncommand.dev)
+: The Roon Command Line project provides Bash and Python scripts to enable command line control of the Roon audio system over a local network.
 
-Asciiville integrations and extensions are aimed at the character
-based terminal and console user. They enable easy to use seamlessly
-integrated control of a variety of ASCII Art, animation, and utilities
-in a lightweight character based environment.
+[Neoman](https://neoman.dev)
+: The Neoman project can be used to install, initialize, configure, and manage neovim, neomutt, newsboat, btop++, kitty, neofetch, w3m, and tmux. All of these are powerful, configurable, character-based programs. Neoman automates the installation, initialization, configuration, and management of these tools using a command line and character menu interface.
 
-At the core of Asciiville is the `asciiville` command which acts as
-a front-end for a variety of terminal commands and `tmux` sessions.
-
-The `asciiville` command can be used to display Ascii Art either
-as a slideshow or interactively.
-o
 <div align="center">
   <h2 id="connect">Connect</h2>
   <p align="center">

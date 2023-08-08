@@ -1,7 +1,9 @@
 ---
-# the default layout is 'page'
+layout: post
 icon: fas fa-info-circle
 order: 7
+toc: true
+post_style: page
 ---
 
 <div align="center">
