@@ -2,11 +2,11 @@
 title: Ascii Art History
 author: doctorfree
 date: 2023-06-15 16:55:00 +0800
-categories: [Art, History]
 tags: [ascii, art, history, ansi]
 pin: true
-img_path: '/posts/20230615'
+img_path: "/posts/20230615"
 ---
+
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/wiki/doctorfree/Asciiville/pics/NYT.jpg"
@@ -17,7 +17,7 @@ img_path: '/posts/20230615'
 
 ASCII art is a graphic design technique that uses computers for presentation
 and consists of pictures pieced together from the 95 printable (from a total
-of 128) characters defined by the 1963 *ASCII Standard*. Some Ascii art uses
+of 128) characters defined by the 1963 _ASCII Standard_. Some Ascii art uses
 ASCII compliant character sets with proprietary extended set of characters
 (beyond the 128 characters of standard 7-bit ASCII). The term is also loosely
 used to refer to text based visual art in general. ASCII art can be created
@@ -158,7 +158,7 @@ a True Star". Rundgren had created the Ascii Selfie.
 
 Todd was not the first Ascii Artist to render a portrait in text.
 During the Korean War (circa 1950), a very talented Korean named
-'Gwang Hyuk Lee' made a  hand drawn text picture depicting Jesus.
+'Gwang Hyuk Lee' made a hand drawn text picture depicting Jesus.
 He used the entire text in the Bible's "Book of John" to create
 this image.
 
@@ -268,27 +268,27 @@ The author and a good friend created with Asciiville<br/>
 
 Jim Boulton has written
 [a fascinating article](https://jimboulton.medium.com/studies-in-perception-a-restoration-story-241cd8c75ab1)
-on the history and restoration of *Computer Nude* from Ken Knowlton and Leon
+on the history and restoration of _Computer Nude_ from Ken Knowlton and Leon
 Harmon's "Studies in Perception I". He provides the technical details of the
 artwork's construction along with some great historical tidbits:
 
-  > *Computer Nude* was made at Bell Labs on an IBM 7094, a $2 million investment
-  > at the time. A black and white photograph of the dancer and choreographer
-  > Deborah Hay was reduced to a grid of grey squares. Symbols from a telephony
-  > circuit diagram were then assigned to the greyscale values of those squares.
+> _Computer Nude_ was made at Bell Labs on an IBM 7094, a $2 million investment
+> at the time. A black and white photograph of the dancer and choreographer
+> Deborah Hay was reduced to a grid of grey squares. Symbols from a telephony
+> circuit diagram were then assigned to the greyscale values of those squares.
 
-  > The resulting 12 feet by 5 feet print was hung on the wall at Bell Labs.
-  > Causing outrage, it was removed after a single day. Harmon and Knowlton were
-  > told not to associate the name of Bell Labs with the artwork in any way.
+> The resulting 12 feet by 5 feet print was hung on the wall at Bell Labs.
+> Causing outrage, it was removed after a single day. Harmon and Knowlton were
+> told not to associate the name of Bell Labs with the artwork in any way.
 
-  > Robert Rauschenberg was more impressed, using the image as the backdrop to his
-  > press conference when he launched E.A.T. (Experiments in Art and Technology).
-  > It was subsequently reproduced in The New York Times, becoming the
-  > publication’s first full-frontal nude. Bell Labs put it back on the wall.
+> Robert Rauschenberg was more impressed, using the image as the backdrop to his
+> press conference when he launched E.A.T. (Experiments in Art and Technology).
+> It was subsequently reproduced in The New York Times, becoming the
+> publication’s first full-frontal nude. Bell Labs put it back on the wall.
 
 Of interest to Kubrick fans, the photographer who took the original photograph
-of the model used in *Computer Nude* was Max Matthews. In 1961, Matthews
-programmed the same IBM 7094 (later used to generate *Computer Nude*) to play
+of the model used in _Computer Nude_ was Max Matthews. In 1961, Matthews
+programmed the same IBM 7094 (later used to generate _Computer Nude_) to play
 snippets from the song "Daisy Bell". Arthur C Clarke was visiting Bell Labs
 at the time and incorporated the rendition into "2001: A Space Odyssey".
 This was the computer that made the first computer nude AND it was HAL's
@@ -301,4 +301,3 @@ voice singing "Daisy"!!!
     alt="artists" />
 Ken Knowlton and Leon Harmon<br/>
 </div>
-

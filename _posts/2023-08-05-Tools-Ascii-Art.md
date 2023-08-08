@@ -2,10 +2,9 @@
 title: Ascii Art Tools
 author: doctorfree
 date: 2023-08-06 14:55:00 +0800
-categories: [Blogging, Tutorial]
 tags: [ascii, art, tools]
 pin: true
-img_path: '/posts/20230806'
+img_path: "/posts/20230806"
 ---
 
 Asciiville includes many tools for generating and viewing ASCII Art
@@ -39,7 +38,7 @@ still use the function and cursor keys to draw with, and you should find that
 most of the text editing features from PabloDraw are carried over to this
 editor. The editor is still a work in progress.
 
-## [Scribble](http://buttersquid.ink/scribble.html) 
+## [Scribble](http://buttersquid.ink/scribble.html)
 
 Scribble is an ASCII art editor which lets you draw vector diagrams and render
 them into ASCII art. The original vector objects are converted into a short
@@ -63,7 +62,7 @@ ARttime provides curated text-art with an alarm, timer, and notifications.
 
 ## [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter)
 
-Asciiville includes the *jp2a* image to ascii conversion utility. However, there
+Asciiville includes the _jp2a_ image to ascii conversion utility. However, there
 are several other such converters, each with its own merits. One good digital
 image to ascii art conversion tool is `ascii-image-converter`.
 

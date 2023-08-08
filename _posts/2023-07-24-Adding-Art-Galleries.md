@@ -2,18 +2,18 @@
 title: Adding Art Galleries
 author: doctorfree
 date: 2023-07-06 12:55:00 +0800
-categories: [Art, Tutorial]
 tags: [art, ascii, gallery, art gallery, info]
 pin: true
-img_path: '/posts/20230706'
+img_path: "/posts/20230706"
 ---
+
 # Adding or Viewing an ASCII Art Gallery
 
 Asciiville includes several ASCII Art galleries produced by the renowned
 Ascii artist, Doctorwhen. These galleries can be viewed by opening
 `asciiville` in interactive menu mode (execute `asciiville` with no
 arguments or the `-i` argument). From the main Asciiville menu select
-*Ascii Art* then select an Ascii Art slideshow to view from
+_Ascii Art_ then select an Ascii Art slideshow to view from
 the list of slideshows available in the Asciiville Art menu.
 
 Additional ASCII Art galleries can be added to the Asciiville Art menu
@@ -41,7 +41,7 @@ hold the generated ASCII Art files. To do so, invoke the command as follows:
 `show_ascii_art -b -I <input folder> -O <output folder>`
 
 For example, the command `show_ascii_art -I /u/pics/beach -O /u/pics/asciibeach`
-would convert all of the image files  in the `/u/pics/beach` folder into
+would convert all of the image files in the `/u/pics/beach` folder into
 ASCII Art files and store them in the `/u/pics/asciibeach` folder.
 
 Note that the quality of generated ASCII Art is quite sensitive to the
@@ -55,8 +55,8 @@ selected with command line switches.
 If one of the terminal emulators that Asciiville is familiar with is used,
 the font and font size are set for you in a terminal profile or by command
 line arguments. The terminal emulators that Asciiville has integrated into
-its generation and viewing facilities are *gnome-terminal*, *tilix*, and
-*xfce4-terminal*. The currnt terminal window or console screen can also be
+its generation and viewing facilities are _gnome-terminal_, _tilix_, and
+_xfce4-terminal_. The currnt terminal window or console screen can also be
 used but in that case the font and font size will be whatever is already set.
 
 If you use the current terminal window to generate/view ASCII Art then you
@@ -66,7 +66,7 @@ other hand, sometimes lower resolution ASCII Art is appealing. It's up to you.
 ### Using asciiville menus to generate ASCII Art
 
 When the `asciiville` command is invoked in interactive menu mode the main
-menu contains an entry *Generate ASCII Art*. Selecting this menu entry will
+menu contains an entry _Generate ASCII Art_. Selecting this menu entry will
 prompt the user to select an image input directory. Answering 'y' to the
 input directory prompt executes the Ranger file manager in directory selection
 mode. Use the arrow keys to browse folders, press `Enter` to enter a directory,
@@ -103,8 +103,8 @@ Asciiville standard slideshows as a menu entry named:
 ```
 
 For example, if the directory name of the new gallery you added is
-`/usr/share/asciiville/art/Cats` then the *Ascii Art* menu
-entry for your new gallery will be "*Cats Art Slideshow*". This menu
+`/usr/share/asciiville/art/Cats` then the _Ascii Art_ menu
+entry for your new gallery will be "_Cats Art Slideshow_". This menu
 also contains entries to set some options for the slideshow. You can
 specify the font size, whether to use audio, what song to play, which
 terminal to use for display of the slideshow, and more. Select the options
@@ -118,7 +118,7 @@ Slideshows can be interrupted by typing 'Ctrl-c'.
 
 Slideshows can also be viewed using command line arguments to the
 `asciiville` command rather than the interactive menu interface.
-To view the *Cats* slideshow in our example using the command line
+To view the _Cats_ slideshow in our example using the command line
 interface, execute the command:
 
 ```console

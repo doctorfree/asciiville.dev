@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 13
+order: 12
 ---
 
 <div align="center">
@@ -18,10 +18,10 @@ Asciiville includes nearly 1,000 works of ASCII and ANSI Art!
 
 Asciiville is one of the [Neoman](https://neoman.dev) managed projects:
 
-| **Neoman** | **Managed** | **Projects** |
-|:-----------|:-----------:|-------------:|
-| [Asciiville](https://asciiville.dev) | [Lazyman](https://lazyman.dev) | [MirrorCommand](https://mirrorcommand.dev) |
-| [MusicPlayerPlus](https://musicplayerplus.dev) | [Neoman](https://neoman.dev) | [RoonCommandLine](https://rooncommand.dev) |
+| **Neoman**                                     |          **Managed**           |                               **Projects** |
+| :--------------------------------------------- | :----------------------------: | -----------------------------------------: |
+| [Asciiville](https://asciiville.dev)           | [Lazyman](https://lazyman.dev) | [MirrorCommand](https://mirrorcommand.dev) |
+| [MusicPlayerPlus](https://musicplayerplus.dev) |  [Neoman](https://neoman.dev)  | [RoonCommandLine](https://rooncommand.dev) |
 
 Asciiville integrations and extensions are aimed at the character
 based terminal and console user. They enable easy to use seamlessly
