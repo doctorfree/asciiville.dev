@@ -1,5 +1,8 @@
 ---
+layout: post
+post_style: page
 icon: fas fa-gg-circle
+toc: true
 order: 11
 ---
 

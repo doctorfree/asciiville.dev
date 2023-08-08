@@ -1,9 +1,9 @@
 ---
 layout: post
-icon: fas fa-info-circle
-order: 7
-toc: true
 post_style: page
+icon: fas fa-info-circle
+toc: true
+order: 7
 ---
 
 <div align="center">

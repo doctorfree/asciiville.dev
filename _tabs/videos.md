@@ -1,6 +1,8 @@
 ---
-# the default layout is 'page'
+layout: post
+post_style: page
 icon: fas fa-video
+toc: false
 order: 8
 ---
 

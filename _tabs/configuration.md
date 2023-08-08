@@ -1,9 +1,9 @@
 ---
 layout: post
-icon: fas fa-plus-circle
-order: 4
-toc: true
 post_style: page
+icon: fas fa-plus-circle
+toc: true
+order: 4
 ---
 
 - [Asciiville configuration](#asciiville-configuration)

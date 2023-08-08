@@ -1,9 +1,9 @@
 ---
 layout: post
-icon: fas fa-arrow-circle-down
-order: 1
-toc: true
 post_style: page
+icon: fas fa-arrow-circle-down
+toc: true
+order: 1
 ---
 
 ## Asciiville Installation
@@ -32,7 +32,7 @@ an Linux platform other than those for which packages are provided.
 
 The `pacman` package manager is one of the major distinguishing features of
 Arch Linux. It combines a simple binary package format with an easy-to-use build
-system. The goal of *pacman* is to make it possible to easily manage packages,
+system. The goal of _pacman_ is to make it possible to easily manage packages,
 whether they are from the official repositories or the user's own builds.
 
 To install on an Arch based Linux system, download the latest Arch format
@@ -63,7 +63,9 @@ Install the Asciiville package by executing the command
 ```console
 sudo apt install ./Asciiville_<version>-<release>.deb
 ```
+
 or
+
 ```console
 sudo dpkg -i ./Asciiville_<version>-<release>.deb
 ```
@@ -73,7 +75,9 @@ Similarly, on a Raspberry Pi:
 ```console
 sudo apt install ./Asciiville_<version>-<release>.deb
 ```
+
 or
+
 ```console
 sudo dpkg -i ./Asciiville_<version>-<release>.deb
 ```
@@ -93,7 +97,9 @@ Install the Asciiville package by executing the command
 ```console
 sudo dnf localinstall ./Asciiville_<version>-<release>.rpm
 ```
+
 or
+
 ```console
 sudo yum localinstall ./Asciiville_<version>-<release>.rpm
 ```
@@ -134,12 +140,12 @@ if it is installed. To activate this feature it may be necessary to
 manually install the `bb` package. This may entail enabling a third-party
 repository. For example, on Fedora Linux, to install `bb`:
 
-* Add RPM Fusion repositories to your system
-* Download latest rpmsphere-release rpm from
-    * https://github.com/rpmsphere/noarch/tree/master/r
-* Install rpmsphere-release rpm:
-    * `sudo rpm -Uvh rpmsphere-release*rpm`
-* Install bb rpm package:
-    * `sudo dnf install bb`
+- Add RPM Fusion repositories to your system
+- Download latest rpmsphere-release rpm from
+  - <https://github.com/rpmsphere/noarch/tree/master/r>
+- Install rpmsphere-release rpm:
+  - `sudo rpm -Uvh rpmsphere-release*rpm`
+- Install bb rpm package:
+  - `sudo dnf install bb`
 
 The BB AAlib Demo is not required. It's just a fun demo.

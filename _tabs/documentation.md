@@ -1,9 +1,9 @@
 ---
 layout: post
-icon: fas fa-user-circle
-order: 5
-toc: true
 post_style: page
+icon: fas fa-user-circle
+toc: true
+order: 5
 ---
 
 ## Asciiville Documentation
@@ -26,19 +26,24 @@ Run the `asciiville` command with no arguments or the `-i` argument to
 bring up the interactive menu interface.
 
 ### Aewan README
+
 - [**aewan**](https://github.com/doctorfree/asciiville-aewan#readme), Introduction to the Aewan ascii art creation tool
 
 ### Btop++ README
+
 - [**btop**](https://github.com/doctorfree/btop#readme) - Introduction to the btop system monitor
 
 ### Cbftp README
+
 - [**cbftp**](https://github.com/doctorfree/cbftp#readme) - Introduction to the cbftp FTP client
 - [**Video on Cbftp**](https://youtu.be/dOIwg9nMF10) - Video introduction to the cbftp FTP client
 
 ### Ddgr README
+
 - [ddgr](https://github.com/jarun/ddgr#readme), Introduction to the ddgr command line web search utility
 
 ### Googler README
+
 - [googler](https://github.com/jarun/googler#readme), Introduction to the googler command line web search utility
 
 ### Man Pages
@@ -103,84 +108,84 @@ line options:
 
 ```
 Usage: asciiville [-a] [-A] [-b] [-c command] [-C] [-d] [-D delay]
-	[-E len] [-f] [-F] [-g] [-i] [-I] [-jJ] [-k] [-l] [-L level]
-	[-m] [-M] [-N] [-n num] [-p] [-P script] [-r] [-R] [-s song]
-	[-S] [-t] [-T] [-U] [-v] [-V show] [-w] [-W] [-x] [-X] [-y]
-	[-Y] [-z] [-Z] [-u] [file1 [file2 ...]]
+ [-E len] [-f] [-F] [-g] [-i] [-I] [-jJ] [-k] [-l] [-L level]
+ [-m] [-M] [-N] [-n num] [-p] [-P script] [-r] [-R] [-s song]
+ [-S] [-t] [-T] [-U] [-v] [-V show] [-w] [-W] [-x] [-X] [-y]
+ [-Y] [-z] [-Z] [-u] [file1 [file2 ...]]
 
 Terminal/Command options:
-	-c 'command' indicates use 'command'
-		If 'command' is keyword 'endo' then display ascii fluid simulation
-		If 'command' is keyword 'maps' then display a map using mapscii
-		If 'command' is keyword 'moon' then display the phase of the Moon
-		If 'command' is keyword 'news' then display RSS news feeds
-		If 'command' is keyword 'reddit' then display Reddit terminal UI
-		If 'command' is keyword 'search' then a web search is performed
-		If 'command' is keyword 'speed' then a speed test is performed
-		If 'command' is keyword 'translate' then the translation tool is run
-		If 'command' is keyword 'twitter' then a Twitter client is run
-		If 'command' is keyword 'weather' then display a weather report
-		Otherwise, 'command' will be executed in a terminal window
-	-d indicates use disk usage analyzer as default command
-	-f indicates use cbftp/ncftp as the default command
-	-F indicates fullscreen display
-	-g indicates use gnome terminal emulator
-	-i indicates start asciiville in interactive mode
-	-I indicates display system info
-	-l indicates use lynx web browser as the default command
-	-L 'level' lolcat coloring level
-	   'level' can be '0' (off), '1' (on), or '2' (animate)
-	-r indicates use retro terminal emulator
-	-t indicates use tilix terminal emulator
-	-U indicates set command to Ninvaders
-	-w indicates use w3m web browser as the default command
-	-W indicates use cmatrix as the default command
-	-x indicates use xfce4 terminal emulator
-	-X indicates run commands in current terminal window
-	-y indicates use ranger file manager as the default command
-	-Y indicates use NetHack dungeon game as the default command
-	-z indicates use neomutt email client as the default command
+ -c 'command' indicates use 'command'
+  If 'command' is keyword 'endo' then display ascii fluid simulation
+  If 'command' is keyword 'maps' then display a map using mapscii
+  If 'command' is keyword 'moon' then display the phase of the Moon
+  If 'command' is keyword 'news' then display RSS news feeds
+  If 'command' is keyword 'reddit' then display Reddit terminal UI
+  If 'command' is keyword 'search' then a web search is performed
+  If 'command' is keyword 'speed' then a speed test is performed
+  If 'command' is keyword 'translate' then the translation tool is run
+  If 'command' is keyword 'twitter' then a Twitter client is run
+  If 'command' is keyword 'weather' then display a weather report
+  Otherwise, 'command' will be executed in a terminal window
+ -d indicates use disk usage analyzer as default command
+ -f indicates use cbftp/ncftp as the default command
+ -F indicates fullscreen display
+ -g indicates use gnome terminal emulator
+ -i indicates start asciiville in interactive mode
+ -I indicates display system info
+ -l indicates use lynx web browser as the default command
+ -L 'level' lolcat coloring level
+    'level' can be '0' (off), '1' (on), or '2' (animate)
+ -r indicates use retro terminal emulator
+ -t indicates use tilix terminal emulator
+ -U indicates set command to Ninvaders
+ -w indicates use w3m web browser as the default command
+ -W indicates use cmatrix as the default command
+ -x indicates use xfce4 terminal emulator
+ -X indicates run commands in current terminal window
+ -y indicates use ranger file manager as the default command
+ -Y indicates use NetHack dungeon game as the default command
+ -z indicates use neomutt email client as the default command
 Slideshow/ASCIImatics animation options:
-	-A indicates use Asciiville scenes in ASCIImatics display
-	-a indicates play audio during display
-	-b indicates use backup audio during display
-	-C indicates cycle slideshow endlessly (Ctrl-c to exit show)
-	-D 'delay' specifies delay, in seconds, between art display (default 5)
-	-E 'len' indicates random slideshow of length 'len' (0 infinite)
-	-j indicates use Julia Set scenes in ASCIImatics display
-	-J indicates Julia Set with several runs using different parameters
-	-m indicates use MusicPlayerPlus scenes in ASCIImatics display
-	-M indicates use MusicPlayerPlus MPD client as default command
-	-n num specifies the number of times to cycle ASCIImatics scenes
-	-N indicates use alternate comments in Plasma ASCIImatics scenes
-	-p indicates use Plasma scenes in ASCIImatics display
-	-P script specifies the ASCIImatics script to run
-	-s 'song' specifies a song to accompany an ASCIImatics animation
-	   'song' can be the full pathname to an audio file or a relative
-	   pathname to an audio file in the MPD music library or ~/Music/
-	-S indicates display ASCIImatics splash animation
-	-V 'show' displays an ascii art slide show
-	   'show' can be one of 'Art', 'Doctorwhen', 'Dragonflies',
-	   'Fractals', 'Friends', 'Iterated', 'Lyapunov', 'Nature',
-	   'Owls', 'Space', 'Vintage', 'Wallpapers', 'Waterfalls',
-	   the name of a custom ascii art folder, the slideshow keyword
-	   'files' which indicates display a slideshow using the ascii
-	   art files provided on the command line, or the slideshow
-	   argument 'files=/path/to/file' which indicates read the list
-	   of slideshow files from the file '/path/to/file'
-	-Z indicates do not play audio during slideshow/animation
+ -A indicates use Asciiville scenes in ASCIImatics display
+ -a indicates play audio during display
+ -b indicates use backup audio during display
+ -C indicates cycle slideshow endlessly (Ctrl-c to exit show)
+ -D 'delay' specifies delay, in seconds, between art display (default 5)
+ -E 'len' indicates random slideshow of length 'len' (0 infinite)
+ -j indicates use Julia Set scenes in ASCIImatics display
+ -J indicates Julia Set with several runs using different parameters
+ -m indicates use MusicPlayerPlus scenes in ASCIImatics display
+ -M indicates use MusicPlayerPlus MPD client as default command
+ -n num specifies the number of times to cycle ASCIImatics scenes
+ -N indicates use alternate comments in Plasma ASCIImatics scenes
+ -p indicates use Plasma scenes in ASCIImatics display
+ -P script specifies the ASCIImatics script to run
+ -s 'song' specifies a song to accompany an ASCIImatics animation
+    'song' can be the full pathname to an audio file or a relative
+    pathname to an audio file in the MPD music library or ~/Music/
+ -S indicates display ASCIImatics splash animation
+ -V 'show' displays an ascii art slide show
+    'show' can be one of 'Art', 'Doctorwhen', 'Dragonflies',
+    'Fractals', 'Friends', 'Iterated', 'Lyapunov', 'Nature',
+    'Owls', 'Space', 'Vintage', 'Wallpapers', 'Waterfalls',
+    the name of a custom ascii art folder, the slideshow keyword
+    'files' which indicates display a slideshow using the ascii
+    art files provided on the command line, or the slideshow
+    argument 'files=/path/to/file' which indicates read the list
+    of slideshow files from the file '/path/to/file'
+ -Z indicates do not play audio during slideshow/animation
 
 General options:
-	-k indicates kill Asciiville tmux sessions and ASCIImatics scripts
-	-R indicates record tmux session with asciinema
-	-T indicates use a tmux session for either ASCIImatics or command
-	-v displays the Asciiville version and exits
-	-u displays this usage message and exits
+ -k indicates kill Asciiville tmux sessions and ASCIImatics scripts
+ -R indicates record tmux session with asciinema
+ -T indicates use a tmux session for either ASCIImatics or command
+ -v displays the Asciiville version and exits
+ -u displays this usage message and exits
 
 Remaining arguments are filenames of ascii art to display
-	Ascii art filenames can be relative to the Ascii Art Gallery folder
-	and need not specify the filename suffix. For example:
-		asciiville -L 2 Friends/tux Doctorwhen/Capitola_Village_Vivid
+ Ascii art filenames can be relative to the Ascii Art Gallery folder
+ and need not specify the filename suffix. For example:
+  asciiville -L 2 Friends/tux Doctorwhen/Capitola_Village_Vivid
 
 Invoked without any arguments, 'asciiville' will display an interactive menu
 ```
@@ -189,71 +194,71 @@ Invoked without any arguments, 'asciiville' will display an interactive menu
 
 ```
 Usage: show_ascii_art [-a art[,art2,...]] [-A art_dir] [-b] [-B] [-c] [-C]
-	[-d font_dir] [-D seconds] [-e term] [-E] [-F large_font] [-f small_font]
-	[-g] [-i image] [-I input_dir] [-O output_dir] [-K fifo_name] [-l level]
-	[-L] [-n tabs] [-N depth] [-o] [-p palette] [-P] [-q] [-r] [-R len]
-	[-s show] [-S song] [-t first_text] [-T second_text]
-	[-h height] [-w width] [-W] [-v] [-z] [-Z] [-u]
+ [-d font_dir] [-D seconds] [-e term] [-E] [-F large_font] [-f small_font]
+ [-g] [-i image] [-I input_dir] [-O output_dir] [-K fifo_name] [-l level]
+ [-L] [-n tabs] [-N depth] [-o] [-p palette] [-P] [-q] [-r] [-R len]
+ [-s show] [-S song] [-t first_text] [-T second_text]
+ [-h height] [-w width] [-W] [-v] [-z] [-Z] [-u]
 Where:
-	-a 'art' specifies ascii art file(s) to display
-		multiple files are separated by a comma with no spaces
-		(e.g. '-a Friends/tux,Doctorwhen/Capitola_Village_Vivid')
-		'art' can be the relative path to a file in:
-			/usr/share/asciiville/art
-		or the path to a file, with or without file extension
-	-A 'art_dir' specifies the path to the ascii art folder
-	-b when generating ascii art use a border
-	-B use backup song when playing audio in slideshows
-	-c cycle slideshow endlessly (Ctrl-c to exit show)
-	-C center ascii art on screen if border detected
-	-d 'font_dir' specifies the path to the figlet fonts
-	-D 'seconds' specifies the delay, in seconds, between screens
-	-e 'term' specifies the terminal in which execution occurs
-		'term' can be one of 'gnome', 'xfce4', or 'tilix'
-	-E disables font size changing
-	-g convert image to grayscale
-	-i 'image' specifies an image file to convert to ascii art
-	-I 'input_dir' generates ascii art from all images in 'input_dir'
-		and saves them in the directory specified with '-O output_dir'
-		(defaults to current directory if '-O output_dir' is specified)
-	-K 'fifo_name' use a FIFO to communicate back to caller when done
-	-l 'level' use lolcat coloring, 'level' can be '1' or '2' (animate)
-	-L lists the ascii art in the 'art_dir' and exits
-	-f 'small_font' specifies the figlet font to use for small text
-	-F 'large_font' specifies the figlet font to use for large text
-	-n 'tabs' specifies the number of tabs to indent image display
-	-N 'depth' specifies the color depth
-		'depth' can be '4' (for ANSI), '8' (for 256 color palette)
-		or '24' (for truecolor or 24-bit color)
-	-o indicates overwrite any existing ascii art when saving
-	-O 'output_dir' generates ascii art from all images in the
-		directory specified with '-I' and saves them in 'output_dir'
-	-P indicates play audio during slideshow
-	-p 'palette' specifies which character set to use for ascii art
-		'palette' can be one of 'def', 'long', 'rev', 'longrev'
-		'def' is the default set, 'long' a long set,
-		'rev' reverses default, 'longrev' reverses long
-		Any other argument to '-p' will be taken as the character set
-	-q don't display text, just the ascii art
-	-r indicates select random fonts
-	-R 'len' indicates random slideshow of length 'len' (0 'len' infinite show)
-	-s 'show' slide show of ascii art
-		'show' can be:
-			'Art', 'Doctorwhen', 'Dragonflies', 'Fractals', 'Friends', 'Iterated'
-			'Lyapunov', 'Nature', 'Owls', 'Space', 'Wallpapers', 'Waterfalls'
-		or a custom folder name (with '-A art_dir')
-	-S 'song' use 'song' as audio track
-	-t 'first_text' specifies the first text to display
-	-T 'second_text' specifies the second text to display
-	-u displays this usage message and exits
-	-h 'height' specifies the height of the converted ascii art
-	-w 'width' specifies the width of the converted ascii art
-		If only one of 'width' and 'height' is provided,
-		calculate the other from image aspect ratio
-	-W indicates do not wait for input to continue viewing ascii art
-	-v indicates view ascii art and prompt to continue
-	-Z indicates no ANSI escape sequences used in ascii art
-	-z indicates save converted image ascii art in art_dir
+ -a 'art' specifies ascii art file(s) to display
+  multiple files are separated by a comma with no spaces
+  (e.g. '-a Friends/tux,Doctorwhen/Capitola_Village_Vivid')
+  'art' can be the relative path to a file in:
+   /usr/share/asciiville/art
+  or the path to a file, with or without file extension
+ -A 'art_dir' specifies the path to the ascii art folder
+ -b when generating ascii art use a border
+ -B use backup song when playing audio in slideshows
+ -c cycle slideshow endlessly (Ctrl-c to exit show)
+ -C center ascii art on screen if border detected
+ -d 'font_dir' specifies the path to the figlet fonts
+ -D 'seconds' specifies the delay, in seconds, between screens
+ -e 'term' specifies the terminal in which execution occurs
+  'term' can be one of 'gnome', 'xfce4', or 'tilix'
+ -E disables font size changing
+ -g convert image to grayscale
+ -i 'image' specifies an image file to convert to ascii art
+ -I 'input_dir' generates ascii art from all images in 'input_dir'
+  and saves them in the directory specified with '-O output_dir'
+  (defaults to current directory if '-O output_dir' is specified)
+ -K 'fifo_name' use a FIFO to communicate back to caller when done
+ -l 'level' use lolcat coloring, 'level' can be '1' or '2' (animate)
+ -L lists the ascii art in the 'art_dir' and exits
+ -f 'small_font' specifies the figlet font to use for small text
+ -F 'large_font' specifies the figlet font to use for large text
+ -n 'tabs' specifies the number of tabs to indent image display
+ -N 'depth' specifies the color depth
+  'depth' can be '4' (for ANSI), '8' (for 256 color palette)
+  or '24' (for truecolor or 24-bit color)
+ -o indicates overwrite any existing ascii art when saving
+ -O 'output_dir' generates ascii art from all images in the
+  directory specified with '-I' and saves them in 'output_dir'
+ -P indicates play audio during slideshow
+ -p 'palette' specifies which character set to use for ascii art
+  'palette' can be one of 'def', 'long', 'rev', 'longrev'
+  'def' is the default set, 'long' a long set,
+  'rev' reverses default, 'longrev' reverses long
+  Any other argument to '-p' will be taken as the character set
+ -q don't display text, just the ascii art
+ -r indicates select random fonts
+ -R 'len' indicates random slideshow of length 'len' (0 'len' infinite show)
+ -s 'show' slide show of ascii art
+  'show' can be:
+   'Art', 'Doctorwhen', 'Dragonflies', 'Fractals', 'Friends', 'Iterated'
+   'Lyapunov', 'Nature', 'Owls', 'Space', 'Wallpapers', 'Waterfalls'
+  or a custom folder name (with '-A art_dir')
+ -S 'song' use 'song' as audio track
+ -t 'first_text' specifies the first text to display
+ -T 'second_text' specifies the second text to display
+ -u displays this usage message and exits
+ -h 'height' specifies the height of the converted ascii art
+ -w 'width' specifies the width of the converted ascii art
+  If only one of 'width' and 'height' is provided,
+  calculate the other from image aspect ratio
+ -W indicates do not wait for input to continue viewing ascii art
+ -v indicates view ascii art and prompt to continue
+ -Z indicates no ANSI escape sequences used in ascii art
+ -z indicates save converted image ascii art in art_dir
 ```
 
 #### Usage message for the `asciisplash` command
@@ -261,21 +266,21 @@ Where:
 ```
 Usage: asciisplash [-A] [-a] [-b] [-C] [-c num] [-d] [-jJ] [-m] [-p] [-s song] [-u]
 Where:
-	-A indicates use all effects
-	-a indicates play audio during ASCIImatics display
-	-b indicates use backup audio during ASCIImatics display
-	-C indicates use alternate comments in Plasma effect
-	-c num specifies the number of times to cycle
-	-d indicates enable debug mode
-	-j indicates use Julia Set effect
-	-J indicates Julia Set with several runs using different parameters
-	-m indicates use Asciiville effect
-	-p indicates use Plasma effect
-	-s song specifies the audio file to play as accompaniment
-		'song' can be the full pathname to an audio file or a relative
-		pathname to an audio file in the MPD music library or
-		$HOME/Music/
-	-u displays this usage message and exits
+ -A indicates use all effects
+ -a indicates play audio during ASCIImatics display
+ -b indicates use backup audio during ASCIImatics display
+ -C indicates use alternate comments in Plasma effect
+ -c num specifies the number of times to cycle
+ -d indicates enable debug mode
+ -j indicates use Julia Set effect
+ -J indicates Julia Set with several runs using different parameters
+ -m indicates use Asciiville effect
+ -p indicates use Plasma effect
+ -s song specifies the audio file to play as accompaniment
+  'song' can be the full pathname to an audio file or a relative
+  pathname to an audio file in the MPD music library or
+  $HOME/Music/
+ -u displays this usage message and exits
 ```
 
 ### Example invocations
@@ -366,4 +371,3 @@ Creates an asciinema recording of `btop` system monitor in a tmux session:
 Run `asciisplash` displaying the Julia Set asciimatics animation with audio:
 
 `asciiville -S -j -a`
-
