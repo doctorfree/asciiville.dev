@@ -3,7 +3,7 @@ layout: post
 post_style: page
 icon: fas fa-info-circle
 toc: true
-order: 12
+order: 9
 ---
 
 <div align="center">

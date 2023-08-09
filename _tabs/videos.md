@@ -3,7 +3,7 @@ layout: post
 post_style: page
 icon: fas fa-video
 toc: true
-order: 8
+order: 5
 ---
 
 ## Introduction to Asciiville Video
