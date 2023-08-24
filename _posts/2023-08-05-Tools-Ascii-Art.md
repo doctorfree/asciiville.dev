@@ -24,12 +24,12 @@ available but not included in Asciiville. The list is short because
 there are just not that many available. Or, I have not found them yet.
 Let us know which ASCII Art tools you think we should include.
 
-## [PabloDraw](https://github.com/blocktronics/pablodraw)
+## [PabloDraw](https://github.com/blocktronics/pablodraw){:target="_blank"}{:rel="noopener noreferrer"}
 
 PabloDraw is an Ansi/Ascii text and RIPscrip vector graphic art
 editor/viewer with multi-user capabilities.
 
-## [Moebius](https://github.com/blocktronics/moebius)
+## [Moebius](https://github.com/blocktronics/moebius){:target="_blank"}{:rel="noopener noreferrer"}
 
 Moebius is an ANSI Editor for MacOS, Linux and Windows. The major feature
 that differentiates it from PabloDraw is the 'half-block' brush which allows
@@ -38,7 +38,7 @@ still use the function and cursor keys to draw with, and you should find that
 most of the text editing features from PabloDraw are carried over to this
 editor. The editor is still a work in progress.
 
-## [Scribble](http://buttersquid.ink/scribble.html)
+## [Scribble](http://buttersquid.ink/scribble.html){:target="_blank"}{:rel="noopener noreferrer"}
 
 Scribble is an ASCII art editor which lets you draw vector diagrams and render
 them into ASCII art. The original vector objects are converted into a short
@@ -47,26 +47,26 @@ Paste both the ASCII art and URL into your source code or README file.
 If you need to modify the ASCII art later, you can regenerate the original
 vector shapes in Scribble by using the URL.
 
-## [LSD (LSDeluxe)](https://github.com/Peltoche/lsd)
+## [LSD (LSDeluxe)](https://github.com/Peltoche/lsd){:target="_blank"}{:rel="noopener noreferrer"}
 
 This project is a rewrite of GNU ls with lot of added features like colors,
 icons, tree-view, more formatting options etc. LSD is included here not because
 it is a drawing or paint tool but because it is really cool and includes
 the ability to decorate files and directories and symbolic links and devices
 with ASCII representations of icons using
-[Nerd Fonts](https://www.nerdfonts.com/).
+[Nerd Fonts](https://www.nerdfonts.com/){:target="_blank"}{:rel="noopener noreferrer"}.
 
-## [arttime](https://github.com/reportaman/arttime)
+## [arttime](https://github.com/reportaman/arttime){:target="_blank"}{:rel="noopener noreferrer"}
 
 ARttime provides curated text-art with an alarm, timer, and notifications.
 
-## [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter)
+## [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter){:target="_blank"}{:rel="noopener noreferrer"}
 
 Asciiville includes the _jp2a_ image to ascii conversion utility. However, there
 are several other such converters, each with its own merits. One good digital
 image to ascii art conversion tool is `ascii-image-converter`.
 
-## [artem](https://github.com/FineFindus/artem)
+## [artem](https://github.com/FineFindus/artem){:target="_blank"}{:rel="noopener noreferrer"}
 
 Artem is a command line tool to convert images to ascii art, similar to
 Asciiville's `jp2a`.

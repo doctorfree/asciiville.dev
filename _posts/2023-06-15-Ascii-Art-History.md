@@ -171,7 +171,7 @@ this image.
 </div>
 
 In the mid-1990s many Ascii Artists flourished online. One such artist,
-[Joan G. Stark](https://en.wikipedia.org/wiki/Joan_Stark), also known by
+[Joan G. Stark](https://en.wikipedia.org/wiki/Joan_Stark){:target="_blank"}{:rel="noopener noreferrer"}, also known by
 her pseudonym 'Spunk' or her initials 'jgs', was particularly prolific
 and talented. From 1996 to 2003 Stark created several hundred works of art,
 most of which were posted to the Usenet newsgroup alt.ascii.art. Between 1996
@@ -190,9 +190,9 @@ stereotypically feminine."
 
 Spunk's website on Geocities is defunct but has been archived by
 the Internet Archive at
-[https://web.archive.org/web/20091028050914/http://www.geocities.com/spunk1111](https://web.archive.org/web/20091028050914/http://www.geocities.com/spunk1111) where one
+[https://web.archive.org/web/20091028050914/http://www.geocities.com/spunk1111](https://web.archive.org/web/20091028050914/http://www.geocities.com/spunk1111){:target="_blank"}{:rel="noopener noreferrer"} where one
 can still find what is perhaps the
-[most extensive history of ASCII Art ever produced](https://web.archive.org/web/20091028050914/http://www.geocities.com/spunk1111/history.htm).
+[most extensive history of ASCII Art ever produced](https://web.archive.org/web/20091028050914/http://www.geocities.com/spunk1111/history.htm){:target="_blank"}{:rel="noopener noreferrer"}.
 
 This technique of representing images as text found its way into the source
 code of computer programs as a way to represent company or product logos.
@@ -229,18 +229,18 @@ called "artpacks" and the community of artists almost vanished.
 ## The Resurrection of ASCII and ANSI Art
 
 ASCII and ANSI art resurrected in 2022 with the publication of
-["Asciiville"](https://github.com/doctorfree/Asciiville#readme), a
+["Asciiville"](https://github.com/doctorfree/Asciiville#readme){:target="_blank"}{:rel="noopener noreferrer"}, a
 compendium of art, animation, utilities, and integrated components all
 utilizing character based graphics. Haha! Just kidding :smiley:. Asciiville
 leverages the resurgence of interest in character based graphics accompanied
-by many recent advances like [Figlet Fonts](http://www.figlet.org/),
-[Lolcat](https://github.com/busyloop/lolcat),
-[lsd](https://github.com/Peltoche/lsd),
-[asciimatics](https://github.com/peterbrittain/asciimatics),
-[asciinema](https://asciinema.org/),
-[btop](https://github.com/aristocratos/btop),
-[jp2a](https://github.com/cslarsen/jp2a),
-[Moebius](https://github.com/blocktronics/moebius),
+by many recent advances like [Figlet Fonts](http://www.figlet.org/){:target="_blank"}{:rel="noopener noreferrer"},
+[Lolcat](https://github.com/busyloop/lolcat){:target="_blank"}{:rel="noopener noreferrer"},
+[lsd](https://github.com/Peltoche/lsd){:target="_blank"}{:rel="noopener noreferrer"},
+[asciimatics](https://github.com/peterbrittain/asciimatics){:target="_blank"}{:rel="noopener noreferrer"},
+[asciinema](https://asciinema.org/){:target="_blank"}{:rel="noopener noreferrer"},
+[btop](https://github.com/aristocratos/btop){:target="_blank"}{:rel="noopener noreferrer"},
+[jp2a](https://github.com/cslarsen/jp2a){:target="_blank"}{:rel="noopener noreferrer"},
+[Moebius](https://github.com/blocktronics/moebius){:target="_blank"}{:rel="noopener noreferrer"},
 and more. These modern utilities and character based
 components have breathed new life into the ASCII art community and produced
 many interesting works of art and animation.
@@ -267,7 +267,7 @@ The author and a good friend created with Asciiville<br/>
 ## Appendix
 
 Jim Boulton has written
-[a fascinating article](https://jimboulton.medium.com/studies-in-perception-a-restoration-story-241cd8c75ab1)
+[a fascinating article](https://jimboulton.medium.com/studies-in-perception-a-restoration-story-241cd8c75ab1){:target="_blank"}{:rel="noopener noreferrer"}
 on the history and restoration of _Computer Nude_ from Ken Knowlton and Leon
 Harmon's "Studies in Perception I". He provides the technical details of the
 artwork's construction along with some great historical tidbits:

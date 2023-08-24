@@ -80,7 +80,7 @@ The `asciiville` command can also be used to invoke commands in a variety of way
 - Display a random Pokemon
 - Display the Phase of the Moon
 - Display a weather report
-- Display the [MusicPlayerPlus](https://musicplayerplus.dev) or [RoonCommandLine](https://rooncommand.dev) interactive menus
+- Display the [MusicPlayerPlus](https://musicplayerplus.dev){:target="_blank"}{:rel="noopener noreferrer"} or [RoonCommandLine](https://rooncommand.dev){:target="_blank"}{:rel="noopener noreferrer"} interactive menus
 - Any character based client the user wishes to run
 - Several asciimatics animations optionally accompanied by audio
 
@@ -91,36 +91,36 @@ of interactive menus that can be used to control its behavior.
 
 Integration is provided for:
 
-- [aewan](https://github.com/doctorfree/asciiville-aewan#readme), Ascii Art creation tool
-- [btop](https://github.com/doctorfree/btop#readme), character based system monitor
-- [cbftp](https://github.com/doctorfree/cbftp#readme), character based FTP client
-- [ddgr](https://github.com/jarun/ddgr#readme), command line web search using DuckDuckGo
-- [jrnl](https://jrnl.sh/en/stable/), a simple command line journal application
-- [khard](https://github.com/lucc/khard), address book for the Unix console
-- [w3m](http://w3m.sourceforge.net/), another character based web browser
-- [lynx](https://lynx.invisible-island.net/), character based web browser
-- [mutt](http://www.mutt.org/), character based email client
-- [neomutt](http://neomutt.org/), character based email client
-- [neovim](https://neovim.io/), advanced open source screen-based text editor
-- [newsboat](https://github.com/newsboat/newsboat), character based RSS feed reader
-- [ranger](https://ranger.github.io/), character based file manager
-- [tuir](https://gitlab.com/ajak/tuir/), terminal UI for Reddit
-- [gdu](https://github.com/dundee/gdu#readme), character based disk usage analyzer
-- [got](https://github.com/fedeztk/got), text based translation tool
-- [mpcplus](https://musicplayerplus.dev/posts/Introduction), featureful ncurses based Music Player client
-- [mplayer](http://mplayerhq.hu/design7/info.html), a media player
-- [asciimatics](https://github.com/peterbrittain/asciimatics) - automatically display a variety of character based animation effects
-- [asciinema](https://asciinema.org/) - automatically create ascii character based video clips
-- [rainbowstream](https://github.com/orakaro/rainbowstream) - command line character based Twitter client
-  - See [the rainbowstream usage manual](https://rainbowstream.readthedocs.io/en/latest/#usage) to get started
-- [endoh1](https://github.com/mame/winner/tree/main/2012/endoh1), ascii fluid dynamics simulation
-- [mapscii](https://github.com/rastapasta/mapscii#readme), zoomable map of the world
-- [cmatrix](https://github.com/abishekvashok/cmatrix), screen from "The Matrix"
-- [nethack](https://en.wikipedia.org/wiki/NetHack), ASCII text dungeon game
-- [ninvaders](https://en.wikipedia.org/wiki/Space_Invaders), ASCII text version of Space Invaders
-- [tetris](https://en.wikipedia.org/wiki/Tetris), ASCII text version of Tetris
-- [tmux](https://github.com/tmux/tmux/wiki), a terminal multiplexer
-- [wttr.in](https://github.com/chubin/wttr.in), console-oriented weather report
+- [aewan](https://github.com/doctorfree/asciiville-aewan#readme){:target="_blank"}{:rel="noopener noreferrer"}, Ascii Art creation tool
+- [btop](https://github.com/doctorfree/btop#readme){:target="_blank"}{:rel="noopener noreferrer"}, character based system monitor
+- [cbftp](https://github.com/doctorfree/cbftp#readme){:target="_blank"}{:rel="noopener noreferrer"}, character based FTP client
+- [ddgr](https://github.com/jarun/ddgr#readme){:target="_blank"}{:rel="noopener noreferrer"}, command line web search using DuckDuckGo
+- [jrnl](https://jrnl.sh/en/stable/){:target="_blank"}{:rel="noopener noreferrer"}, a simple command line journal application
+- [khard](https://github.com/lucc/khard){:target="_blank"}{:rel="noopener noreferrer"}, address book for the Unix console
+- [w3m](http://w3m.sourceforge.net/){:target="_blank"}{:rel="noopener noreferrer"}, another character based web browser
+- [lynx](https://lynx.invisible-island.net/){:target="_blank"}{:rel="noopener noreferrer"}, character based web browser
+- [mutt](http://www.mutt.org/){:target="_blank"}{:rel="noopener noreferrer"}, character based email client
+- [neomutt](http://neomutt.org/){:target="_blank"}{:rel="noopener noreferrer"}, character based email client
+- [neovim](https://neovim.io/){:target="_blank"}{:rel="noopener noreferrer"}, advanced open source screen-based text editor
+- [newsboat](https://github.com/newsboat/newsboat){:target="_blank"}{:rel="noopener noreferrer"}, character based RSS feed reader
+- [ranger](https://ranger.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, character based file manager
+- [tuir](https://gitlab.com/ajak/tuir/){:target="_blank"}{:rel="noopener noreferrer"}, terminal UI for Reddit
+- [gdu](https://github.com/dundee/gdu#readme){:target="_blank"}{:rel="noopener noreferrer"}, character based disk usage analyzer
+- [got](https://github.com/fedeztk/got){:target="_blank"}{:rel="noopener noreferrer"}, text based translation tool
+- [mpcplus](https://musicplayerplus.dev/posts/Introduction){:target="_blank"}{:rel="noopener noreferrer"}, featureful ncurses based Music Player client
+- [mplayer](http://mplayerhq.hu/design7/info.html){:target="_blank"}{:rel="noopener noreferrer"}, a media player
+- [asciimatics](https://github.com/peterbrittain/asciimatics){:target="_blank"}{:rel="noopener noreferrer"} - automatically display a variety of character based animation effects
+- [asciinema](https://asciinema.org/){:target="_blank"}{:rel="noopener noreferrer"} - automatically create ascii character based video clips
+- [rainbowstream](https://github.com/orakaro/rainbowstream){:target="_blank"}{:rel="noopener noreferrer"} - command line character based Twitter client
+  - See [the rainbowstream usage manual](https://rainbowstream.readthedocs.io/en/latest/#usage){:target="_blank"}{:rel="noopener noreferrer"} to get started
+- [endoh1](https://github.com/mame/winner/tree/main/2012/endoh1){:target="_blank"}{:rel="noopener noreferrer"}, ascii fluid dynamics simulation
+- [mapscii](https://github.com/rastapasta/mapscii#readme){:target="_blank"}{:rel="noopener noreferrer"}, zoomable map of the world
+- [cmatrix](https://github.com/abishekvashok/cmatrix){:target="_blank"}{:rel="noopener noreferrer"}, screen from "The Matrix"
+- [nethack](https://en.wikipedia.org/wiki/NetHack){:target="_blank"}{:rel="noopener noreferrer"}, ASCII text dungeon game
+- [ninvaders](https://en.wikipedia.org/wiki/Space_Invaders){:target="_blank"}{:rel="noopener noreferrer"}, ASCII text version of Space Invaders
+- [tetris](https://en.wikipedia.org/wiki/Tetris){:target="_blank"}{:rel="noopener noreferrer"}, ASCII text version of Tetris
+- [tmux](https://github.com/tmux/tmux/wiki){:target="_blank"}{:rel="noopener noreferrer"}, a terminal multiplexer
+- [wttr.in](https://github.com/chubin/wttr.in){:target="_blank"}{:rel="noopener noreferrer"}, console-oriented weather report
 - Enhanced key bindings for extended control of terminal windows
 - Support for several terminal emulators
   - xfce4-terminal
@@ -128,5 +128,5 @@ Integration is provided for:
   - kitty
   - tilix
   - cool-retro-term
-- [MusicPlayerPlus](https://musicplayerplus.dev), character based suite of commands to manage music server and player
-- [RoonCommandLine](https://rooncommand.dev), command line control of the Roon audio system over a local network
+- [MusicPlayerPlus](https://musicplayerplus.dev){:target="_blank"}{:rel="noopener noreferrer"}, character based suite of commands to manage music server and player
+- [RoonCommandLine](https://rooncommand.dev){:target="_blank"}{:rel="noopener noreferrer"}, command line control of the Roon audio system over a local network

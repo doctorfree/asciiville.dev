@@ -158,7 +158,7 @@ The ssh kitten will automatically copy the Kitty terminfo entry to the remote sy
 #### Neovim text editor configuration
 
 The `ascinit` Asciiville initialization installs a current version of
-[Neovim](https://neovim.io) and extensively configures and extends the
+[Neovim](https://neovim.io){:target="_blank"}{:rel="noopener noreferrer"} and extensively configures and extends the
 `nvim` text editor with plugins, configuration files, keyboard mappings,
 color schemes, syntax highlighting, language servers, and settings.
 
@@ -174,7 +174,7 @@ it out. If later you decide you do not need Neovim then it can be removed
 with the command `ascinit -r neovim`.
 
 The Asciiville configuration of Neovim is quite extensive and fairly complex.
-See the [Lazyman README](https://github.com/doctorfree/nvim-lazyman#readme)
+See the [Lazyman README](https://github.com/doctorfree/nvim-lazyman#readme){:target="_blank"}{:rel="noopener noreferrer"}
 for an introductory tour of the configuration, plugins, settings, and usage of Neovim.
 
 After installing and initializing Asciiville with `ascinit`, try out
@@ -206,7 +206,7 @@ the Asciiville setup:
 
 #### Newsboat RSS feed reader configuration
 
-The [Newsboat](https://github.com/newsboat/newsboat) character based RSS feed
+The [Newsboat](https://github.com/newsboat/newsboat){:target="_blank"}{:rel="noopener noreferrer"} character based RSS feed
 reader is a quick and easy way to view configured RSSS feeds. Newsboat is
 very lightweight and displays its list of configured feeds and articles almost
 immediately. It's an excellent way to get a quick glimpse of News, Articles,
@@ -223,7 +223,7 @@ edit the file `$HOME/.newsboat/config`.
 
 #### NeoMutt email configuration
 
-The [NeoMutt](https://neomutt.org/) email client is an improved Mutt client.
+The [NeoMutt](https://neomutt.org/){:target="_blank"}{:rel="noopener noreferrer"} email client is an improved Mutt client.
 Asciiville installs NeoMutt as a dependency and provides support for configuring
 and launching NeoMutt. Setup for NeoMutt is similar to setup for Mutt.
 
@@ -262,7 +262,7 @@ Comments in `$HOME/.config/neomutt/accounts/gmail`
 provide pointers to configuring your credentials with GMail. If Google 2FA
 Authentication is enabled in your Google account, create an App password for
 NeoMutt. See
-[https://security.google.com/settings/security/apppasswords](https://security.google.com/settings/security/apppasswords)
+[https://security.google.com/settings/security/apppasswords](https://security.google.com/settings/security/apppasswords){:target="_blank"}{:rel="noopener noreferrer"}
 
 NeoMutt can use the output of external commands to set a configuration value.
 Storing a password in a configuration file is generally a bad idea. Passwords
@@ -275,14 +275,14 @@ implemented using encryption with utilities like PGP or GPG.
 
 The Asciiville configuration of NeoMutt is quite extensive and fairly complex.
 See the
-[Asciiville NeoMutt README](https://github.com/doctorfree/Asciiville/blob/main/conf/neomutt/README.md)
+[Asciiville NeoMutt README](https://github.com/doctorfree/Asciiville/blob/main/conf/neomutt/README.md){:target="_blank"}{:rel="noopener noreferrer"}
 for an introductory tour of the configuration, settings, and usage of NeoMutt
 including the use of encrypted passwords and NeoMutt key bindings.
 
 #### Mutt email configuration
 
 Alternatively, you may prefer using the older but still maintained and robust
-[Mutt](https://www.mutt.org/) email client. Asciiville checks to see if Mutt
+[Mutt](https://www.mutt.org/){:target="_blank"}{:rel="noopener noreferrer"} email client. Asciiville checks to see if Mutt
 is installed and, if so, provides support for launching it as well as NeoMutt.
 Mutt and NeoMutt can coexist peacefully.
 
@@ -298,7 +298,7 @@ In order to use the Mutt email client it will be necessary to configure
 Comments in `$HOME/.mutt/.muttrc` provide pointers to configuring your
 credentials with GMail. If Google 2FA Authentication is enabled in your
 Google account, create an App password for NeoMutt. See
-[https://security.google.com/settings/security/apppasswords](https://security.google.com/settings/security/apppasswords)
+[https://security.google.com/settings/security/apppasswords](https://security.google.com/settings/security/apppasswords){:target="_blank"}{:rel="noopener noreferrer"}
 
 Asciiville `ascinit` Mutt initialization does not overwrite any previously
 existing Mutt configuration files in `$HOME/.mutt/`. However, you may want
@@ -309,7 +309,7 @@ files rather than your previously configured setup, move the existing
 
 There are many Mutt configuration guides on the Internet.
 ArchLinux has a good guide at
-[https://wiki.archlinux.org/title/Mutt](https://wiki.archlinux.org/title/Mutt).
+[https://wiki.archlinux.org/title/Mutt](https://wiki.archlinux.org/title/Mutt){:target="_blank"}{:rel="noopener noreferrer"}.
 
 #### Tuir Reddit client configuration
 
@@ -319,10 +319,10 @@ and this configuration should work well for most users. However, if you wish to
 login to your Reddit account using `tuir` then you will first need to generate
 an OAuth client id and secret with Reddit. This process is described at:
 
-[https://github.com/reddit-archive/reddit/wiki/oauth2](https://github.com/reddit-archive/reddit/wiki/oauth2)
+[https://github.com/reddit-archive/reddit/wiki/oauth2](https://github.com/reddit-archive/reddit/wiki/oauth2){:target="_blank"}{:rel="noopener noreferrer"}
 
 First visit
-[https://www.reddit.com/prefs/apps/](https://www.reddit.com/prefs/apps/)
+[https://www.reddit.com/prefs/apps/](https://www.reddit.com/prefs/apps/){:target="_blank"}{:rel="noopener noreferrer"}
 and click "Create another app ..." at the bottom of the page. You can use
 whatever you like for the Name of the app, I used 'tuir'. Make sure that the
 'redirect uri' is `http://127.0.0.1:65000/` or whatever you have set it to in

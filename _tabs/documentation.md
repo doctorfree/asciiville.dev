@@ -8,7 +8,7 @@ order: 4
 
 ## Asciiville Documentation
 
-Asciiville documentation is now available on [Read the Docs](https://asciiville.readthedocs.io/en/latest/index.html)
+Asciiville documentation is now available on [Read the Docs](https://asciiville.readthedocs.io/en/latest/index.html){:target="_blank"}{:rel="noopener noreferrer"}
 
 All Asciiville commands have manual pages. Execute `man <command-name>`
 to view the manual page for a command. The `asciiville` frontend is the primary
@@ -27,37 +27,37 @@ bring up the interactive menu interface.
 
 ### Aewan README
 
-- [**aewan**](https://github.com/doctorfree/asciiville-aewan#readme), Introduction to the Aewan ascii art creation tool
+- [**aewan**](https://github.com/doctorfree/asciiville-aewan#readme){:target="_blank"}{:rel="noopener noreferrer"}, Introduction to the Aewan ascii art creation tool
 
 ### Btop++ README
 
-- [**btop**](https://github.com/doctorfree/btop#readme) - Introduction to the btop system monitor
+- [**btop**](https://github.com/doctorfree/btop#readme){:target="_blank"}{:rel="noopener noreferrer"} - Introduction to the btop system monitor
 
 ### Cbftp README
 
-- [**cbftp**](https://github.com/doctorfree/cbftp#readme) - Introduction to the cbftp FTP client
-- [**Video on Cbftp**](https://youtu.be/dOIwg9nMF10) - Video introduction to the cbftp FTP client
+- [**cbftp**](https://github.com/doctorfree/cbftp#readme){:target="_blank"}{:rel="noopener noreferrer"} - Introduction to the cbftp FTP client
+- [**Video on Cbftp**](https://youtu.be/dOIwg9nMF10){:target="_blank"}{:rel="noopener noreferrer"} - Video introduction to the cbftp FTP client
 
 ### Ddgr README
 
-- [ddgr](https://github.com/jarun/ddgr#readme), Introduction to the ddgr command line web search utility
+- [ddgr](https://github.com/jarun/ddgr#readme){:target="_blank"}{:rel="noopener noreferrer"}, Introduction to the ddgr command line web search utility
 
 ### Man Pages
 
-- [**asciiville**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciiville.1.md) : Primary Asciiville user interface
-- [**asciiart**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciiart.1.md) : asciimatics animation of art images
-- [**asciijulia**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciijulia.1.md) : asciimatics animation of a Julia Set
-- [**asciimpplus**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciimpplus.1.md) : asciimatics animation of Asciiville intro
-- [**asciiplasma**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciiplasma.1.md) : asciimatics animation with Plasma effect
-- [**asciisplash-tmux**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciisplash-tmux.1.md) : Asciiville asciimatics animations in a tmux session
-- [**asciisplash**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciisplash.1.md) : Asciiville asciimatics animations
-- [**ascinit**](https://github.com/doctorfree/Asciiville/blob/main/markdown/ascinit.1.md) : Asciiville initialization
-- [**cbftp**](https://github.com/doctorfree/Asciiville/blob/main/markdown/cbftp.1.md) : Asciiville FTP client
-- [**show_ascii_art**](https://github.com/doctorfree/Asciiville/blob/main/markdown/show_ascii_art.1.md) : Display ascii art, convert images to ascii art
-- [**show_moon**](https://github.com/doctorfree/Asciiville/blob/main/markdown/show_moon.1.md) : Display the phase of the Moon
-- [**show_pokemon**](https://github.com/doctorfree/Asciiville/blob/main/markdown/show_pokemon.1.md) : Display a Pokemon pocket monster
-- [**show_weather**](https://github.com/doctorfree/Asciiville/blob/main/markdown/show_weather.1.md) : Display a weather report
-- [**termprofset**](https://github.com/doctorfree/Asciiville/blob/main/markdown/termprofset.1.md) : Manipulate default terminal profile or font settings
+- [**asciiville**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciiville.1.md){:target="_blank"}{:rel="noopener noreferrer"} : Primary Asciiville user interface
+- [**asciiart**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciiart.1.md){:target="_blank"}{:rel="noopener noreferrer"} : asciimatics animation of art images
+- [**asciijulia**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciijulia.1.md){:target="_blank"}{:rel="noopener noreferrer"} : asciimatics animation of a Julia Set
+- [**asciimpplus**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciimpplus.1.md){:target="_blank"}{:rel="noopener noreferrer"} : asciimatics animation of Asciiville intro
+- [**asciiplasma**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciiplasma.1.md){:target="_blank"}{:rel="noopener noreferrer"} : asciimatics animation with Plasma effect
+- [**asciisplash-tmux**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciisplash-tmux.1.md){:target="_blank"}{:rel="noopener noreferrer"} : Asciiville asciimatics animations in a tmux session
+- [**asciisplash**](https://github.com/doctorfree/Asciiville/blob/main/markdown/asciisplash.1.md){:target="_blank"}{:rel="noopener noreferrer"} : Asciiville asciimatics animations
+- [**ascinit**](https://github.com/doctorfree/Asciiville/blob/main/markdown/ascinit.1.md){:target="_blank"}{:rel="noopener noreferrer"} : Asciiville initialization
+- [**cbftp**](https://github.com/doctorfree/Asciiville/blob/main/markdown/cbftp.1.md){:target="_blank"}{:rel="noopener noreferrer"} : Asciiville FTP client
+- [**show_ascii_art**](https://github.com/doctorfree/Asciiville/blob/main/markdown/show_ascii_art.1.md){:target="_blank"}{:rel="noopener noreferrer"} : Display ascii art, convert images to ascii art
+- [**show_moon**](https://github.com/doctorfree/Asciiville/blob/main/markdown/show_moon.1.md){:target="_blank"}{:rel="noopener noreferrer"} : Display the phase of the Moon
+- [**show_pokemon**](https://github.com/doctorfree/Asciiville/blob/main/markdown/show_pokemon.1.md){:target="_blank"}{:rel="noopener noreferrer"} : Display a Pokemon pocket monster
+- [**show_weather**](https://github.com/doctorfree/Asciiville/blob/main/markdown/show_weather.1.md){:target="_blank"}{:rel="noopener noreferrer"} : Display a weather report
+- [**termprofset**](https://github.com/doctorfree/Asciiville/blob/main/markdown/termprofset.1.md){:target="_blank"}{:rel="noopener noreferrer"} : Manipulate default terminal profile or font settings
 
 ### Commands
 
@@ -65,43 +65,43 @@ Asciiville adds the following commands to your system:
 
 #### Commands with man pages
 
-**[asciiville](https://github.com/doctorfree/Asciiville/wiki/asciiville.1)**
+**[asciiville](https://github.com/doctorfree/Asciiville/wiki/asciiville.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : primary user interface, invokes terminal emulators, ascii animations, system monitor, mail client, file manager, web browser, and more
 
-**[btop](https://github.com/doctorfree/Asciiville/wiki/btop.1)**
+**[btop](https://github.com/doctorfree/Asciiville/wiki/btop.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : character based system monitor
 
-**[cbftp](https://github.com/doctorfree/Asciiville/wiki/cbftp.1)**
+**[cbftp](https://github.com/doctorfree/Asciiville/wiki/cbftp.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : character based FTP client
 
-**[ascinit](https://github.com/doctorfree/Asciiville/wiki/ascinit.1)**
+**[ascinit](https://github.com/doctorfree/Asciiville/wiki/ascinit.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : one-time initializaton of a user's Asciiville configuration
 
-**[asciisplash](https://github.com/doctorfree/Asciiville/wiki/asciisplash.1)**
+**[asciisplash](https://github.com/doctorfree/Asciiville/wiki/asciisplash.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : fun ascii art screens using ASCIImatics animations
 
-**[asciiart](https://github.com/doctorfree/Asciiville/wiki/asciiart.1)**
+**[asciiart](https://github.com/doctorfree/Asciiville/wiki/asciiart.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : ASCIImatics animated art images
 
-**[asciijulia](https://github.com/doctorfree/Asciiville/wiki/asciijulia.1)**
+**[asciijulia](https://github.com/doctorfree/Asciiville/wiki/asciijulia.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : ASCIImatics animated zoom on a Julia Set
 
-**[asciiplasma](https://github.com/doctorfree/Asciiville/wiki/asciiplasma.1)**
+**[asciiplasma](https://github.com/doctorfree/Asciiville/wiki/asciiplasma.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : ASCIImatics animated plasma graphic
 
-**[asciimpplus](https://github.com/doctorfree/Asciiville/wiki/asciimpplus.1)**
+**[asciimpplus](https://github.com/doctorfree/Asciiville/wiki/asciimpplus.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : ASCIImatics animated Music Player Plus splash screen
 
-**[show_ascii_art](https://github.com/doctorfree/Asciiville/wiki/show_ascii_art.1)**
+**[show_ascii_art](https://github.com/doctorfree/Asciiville/wiki/show_ascii_art.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : display ascii art, convert images to ascii art
 
-**[show_moon](https://github.com/doctorfree/Asciiville/wiki/show_moon.1)**
+**[show_moon](https://github.com/doctorfree/Asciiville/wiki/show_moon.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : display the phase of the Moon
 
-**[show_weather](https://github.com/doctorfree/Asciiville/wiki/show_weather.1)**
+**[show_weather](https://github.com/doctorfree/Asciiville/wiki/show_weather.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : display a weather report
 
-**[termprofset](https://github.com/doctorfree/Asciiville/wiki/termprofset.1)**
+**[termprofset](https://github.com/doctorfree/Asciiville/wiki/termprofset.1){:target="_blank"}{:rel="noopener noreferrer"}**
 : set/restore default profile or font settings for the Gnome, Xfce4, and Tilix terminals
 
 #### Commands without man pages
@@ -556,4 +556,4 @@ Run `asciisplash` displaying the Julia Set asciimatics animation with audio:
 ### Asciiville Wiki
 
 Additional detail and info can be found in the
-[Asciiville Wiki](https://github.com/doctorfree/Asciiville/wiki).
+[Asciiville Wiki](https://github.com/doctorfree/Asciiville/wiki){:target="_blank"}{:rel="noopener noreferrer"}.

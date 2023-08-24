@@ -10,7 +10,7 @@ order: 1
 
 Asciiville 3.0.1 and later can be installed on any architecture.
 Asciiville 3.0.2 and later can optionally utilize
-[Homebrew](https://brew.sh) to install packages during `ascinit`
+[Homebrew](https://brew.sh){:target="_blank"}{:rel="noopener noreferrer"} to install packages during `ascinit`
 post installation initialization.
 
 Asciiville can be installed on Linux systems using the Arch Linux
@@ -30,13 +30,13 @@ package on an Linux platform other than those for which packages are provided.
 
 ### Quickstart
 
-- Install the latest Arch, Debian, macOS, RPM, or compressed tar archive format installation package from the [Asciiville Releases](https://github.com/doctorfree/Asciiville/releases) page
+- Install the latest Arch, Debian, macOS, RPM, or compressed tar archive format installation package from the [Asciiville Releases](https://github.com/doctorfree/Asciiville/releases){:target="_blank"}{:rel="noopener noreferrer"} page
 - Run the `ascinit` command
   - Must be done as a normal user with `sudo` privilege
   - Run `ascinit -c` to perform a console initialization (no graphical utilities)
 - Initialize the command line Twitter client by invoking the `rainbowstream` command and authorizing the app to access your Twitter account
 - Execute the `asciiville` command in interactive menu mode by running `asciiville -i`
-- See the [online asciiville man page](https://github.com/doctorfree/Asciiville/wiki/asciiville.1) or `man asciiville` for different ways to invoke the `asciiville` command
+- See the [online asciiville man page](https://github.com/doctorfree/Asciiville/wiki/asciiville.1){:target="_blank"}{:rel="noopener noreferrer"} or `man asciiville` for different ways to invoke the `asciiville` command
 
 The `asciiville` command can simply take ascii art filenames as arguments
 and it will display them. The full filename isn't even necessary, it will
@@ -58,7 +58,7 @@ whether they are from the official repositories or the user's own builds.
 
 To install on an Arch based Linux system, download the latest Arch format
 package from the
-[Asciiville Releases](https://github.com/doctorfree/Asciiville/releases).
+[Asciiville Releases](https://github.com/doctorfree/Asciiville/releases){:target="_blank"}{:rel="noopener noreferrer"}.
 
 Install the Asciiville package by executing the command
 
@@ -77,7 +77,7 @@ contents of the file `/etc/os-release`.
 
 To install on a Debian based Linux system, download the latest Debian format
 package from the
-[Asciiville Releases](https://github.com/doctorfree/Asciiville/releases).
+[Asciiville Releases](https://github.com/doctorfree/Asciiville/releases){:target="_blank"}{:rel="noopener noreferrer"}.
 
 Install the Asciiville package by executing the command
 
@@ -111,7 +111,7 @@ openSUSE, OpenMandriva, Mandrake Linux, Red Hat Linux, and Oracle Linux.
 
 To install on an RPM based Linux system, download the latest RPM format
 package from the
-[Asciiville Releases](https://github.com/doctorfree/Asciiville/releases).
+[Asciiville Releases](https://github.com/doctorfree/Asciiville/releases){:target="_blank"}{:rel="noopener noreferrer"}.
 
 Install the Asciiville package by executing the command
 
