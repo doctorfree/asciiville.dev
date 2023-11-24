@@ -28,6 +28,13 @@ package manager (RPM) format, and Arch Linux packaging format.
 See the [Build](https://asciiville.dev#build) section to compile and build a
 package on an Linux platform other than those for which packages are provided.
 
+### Asciiville Kasm workspace
+
+**NEWS!** `Asciiville` is now available as a [Kasm Workspace](https://kasmweb.com)
+by adding `https://doctorfree.github.io/kasm-registry/` as a
+[Kasm 3rd party registry](https://www.kasmweb.com/docs/latest/guide/workspace_registry.html)
+and installing the `Asciiville` workspace in your Kasm instance.
+
 ### Quickstart
 
 - Install the latest Arch, Debian, macOS, RPM, or compressed tar archive format installation package from the [Asciiville Releases](https://github.com/doctorfree/Asciiville/releases){:target="_blank"}{:rel="noopener noreferrer"} page
