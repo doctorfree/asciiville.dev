@@ -7,7 +7,7 @@ order: 9
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wiki/doctorfree/Asciiville/pics/asciitown.png" style="width:950px;height:500px;">
+  <img src="https://raw.githubusercontent.com/wiki/doctorfree/Asciiville/pics/asciitown.png" alt="Ascii Town" style="width:950px;height:500px;">
 </div>
 
 Asciiville is where you go for ASCII Art, animations, and utilities.
