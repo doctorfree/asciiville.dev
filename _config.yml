@@ -218,9 +218,6 @@ exclude:
   - "*.config.js"
   - "package*.json"
 
-# To disable HTML-Proofer
-jekyll_proofer: false
-
 jekyll-archives:
   enabled: [categories, tags]
   layouts:

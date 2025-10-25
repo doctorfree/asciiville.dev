@@ -233,7 +233,7 @@ ASCII and ANSI art resurrected in 2022 with the publication of
 compendium of art, animation, utilities, and integrated components all
 utilizing character based graphics. Haha! Just kidding :smiley:. Asciiville
 leverages the resurgence of interest in character based graphics accompanied
-by many recent advances like [Figlet Fonts](http://www.figlet.org/){:target="_blank"}{:rel="noopener noreferrer"},
+by many recent advances like [Figlet Fonts](https://www.figlet.org/){:target="_blank"}{:rel="noopener noreferrer"},
 [Lolcat](https://github.com/busyloop/lolcat){:target="_blank"}{:rel="noopener noreferrer"},
 [lsd](https://github.com/Peltoche/lsd){:target="_blank"}{:rel="noopener noreferrer"},
 [asciimatics](https://github.com/peterbrittain/asciimatics){:target="_blank"}{:rel="noopener noreferrer"},

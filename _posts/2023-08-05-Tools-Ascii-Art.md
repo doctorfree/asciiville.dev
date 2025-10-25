@@ -38,7 +38,7 @@ still use the function and cursor keys to draw with, and you should find that
 most of the text editing features from PabloDraw are carried over to this
 editor. The editor is still a work in progress.
 
-## [Scribble](http://buttersquid.ink/scribble.html){:target="_blank"}{:rel="noopener noreferrer"}
+## [Scribble](https://buttersquid.ink/scribble.html){:target="_blank"}{:rel="noopener noreferrer"}
 
 Scribble is an ASCII art editor which lets you draw vector diagrams and render
 them into ASCII art. The original vector objects are converted into a short
