@@ -101,3 +101,5 @@ as a slideshow or interactively.
     /></a>
   </p>
 </div>
+
+{: .prompt-tip }
