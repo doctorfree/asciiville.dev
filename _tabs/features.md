@@ -97,10 +97,10 @@ Integration is provided for:
 - [ddgr](https://github.com/jarun/ddgr#readme){:target="_blank"}{:rel="noopener noreferrer"}, command line web search using DuckDuckGo
 - [jrnl](https://jrnl.sh/en/stable/){:target="_blank"}{:rel="noopener noreferrer"}, a simple command line journal application
 - [khard](https://github.com/lucc/khard){:target="_blank"}{:rel="noopener noreferrer"}, address book for the Unix console
-- [w3m](http://w3m.sourceforge.net/){:target="_blank"}{:rel="noopener noreferrer"}, another character based web browser
+- [w3m](https://w3m.sourceforge.net/){:target="_blank"}{:rel="noopener noreferrer"}, another character based web browser
 - [lynx](https://lynx.invisible-island.net/){:target="_blank"}{:rel="noopener noreferrer"}, character based web browser
-- [mutt](http://www.mutt.org/){:target="_blank"}{:rel="noopener noreferrer"}, character based email client
-- [neomutt](http://neomutt.org/){:target="_blank"}{:rel="noopener noreferrer"}, character based email client
+- [mutt](https://www.mutt.org/){:target="_blank"}{:rel="noopener noreferrer"}, character based email client
+- [neomutt](https://neomutt.org/){:target="_blank"}{:rel="noopener noreferrer"}, character based email client
 - [neovim](https://neovim.io/){:target="_blank"}{:rel="noopener noreferrer"}, advanced open source screen-based text editor
 - [newsboat](https://github.com/newsboat/newsboat){:target="_blank"}{:rel="noopener noreferrer"}, character based RSS feed reader
 - [ranger](https://ranger.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, character based file manager
@@ -108,7 +108,7 @@ Integration is provided for:
 - [gdu](https://github.com/dundee/gdu#readme){:target="_blank"}{:rel="noopener noreferrer"}, character based disk usage analyzer
 - [got](https://github.com/fedeztk/got){:target="_blank"}{:rel="noopener noreferrer"}, text based translation tool
 - [mpcplus](https://musicplayerplus.dev/posts/Introduction){:target="_blank"}{:rel="noopener noreferrer"}, featureful ncurses based Music Player client
-- [mplayer](http://mplayerhq.hu/design7/info.html){:target="_blank"}{:rel="noopener noreferrer"}, a media player
+- [mplayer](https://mplayerhq.hu/design7/info.html){:target="_blank"}{:rel="noopener noreferrer"}, a media player
 - [asciimatics](https://github.com/peterbrittain/asciimatics){:target="_blank"}{:rel="noopener noreferrer"} - automatically display a variety of character based animation effects
 - [asciinema](https://asciinema.org/){:target="_blank"}{:rel="noopener noreferrer"} - automatically create ascii character based video clips
 - [rainbowstream](https://github.com/orakaro/rainbowstream){:target="_blank"}{:rel="noopener noreferrer"} - command line character based Twitter client
