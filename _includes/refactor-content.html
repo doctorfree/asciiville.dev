@@ -133,12 +133,12 @@
       {% endunless %}
     {% endif %}
 
-    <!-- lazy-load images <https://github.com/aFarkas/lazysizes#readme> -->
+    <!-- do not lazy-load images, use img-link class -->
     {% assign _left = _left | replace: 'src=', 'data-src=' %}
     {% if _left contains 'class=' %}
-      {% assign _left = _left | replace: 'class="', 'class="lazyload '%}
+      {% assign _left = _left | replace: 'class="', 'class="img-link '%}
     {% else %}
-      {% assign _left = _left | append: ' class="lazyload"' %}
+      {% assign _left = _left | append: ' class="img-link"' %}
     {% endif %}
 
     <!-- add image placeholder -->
