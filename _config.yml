@@ -218,6 +218,17 @@ exclude:
   - "*.config.js"
   - "package*.json"
 
+jekyll_compose:
+  auto_open: true  # Set and export JEKYLL_EDITOR in your shell environment
+  default_front_matter:
+    drafts:
+      description:
+      tags:
+    posts:
+      description:
+      tags:
+      published: false
+
 jekyll-archives:
   enabled: [tags]
   layouts:
